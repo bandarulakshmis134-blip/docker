@@ -1,0 +1,13 @@
+{
+  "name": "your-app-name",
+  "version": "1.0.0",
+  "description": "Minimal backend for Docker container",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "license": "MIT"
+}
